@@ -39,11 +39,13 @@ e.g. ./a.out  2  500.bmp
 
 How to run:
 
-Step 1 ->
+Step 1 -> openMP_execution_model.txt needs to be in the same scope as the task_dependencies.c file
+
+Step 2 -> 
 
  	gcc task_dependencies.c
 
-Step 2 ->
+Step 3 ->
 
  	./a.out
 
