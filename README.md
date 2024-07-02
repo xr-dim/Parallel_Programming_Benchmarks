@@ -33,3 +33,20 @@ Step 2 ->
 	./a.out <blur-radius> <filename>, 
 
 e.g. ./a.out  2  500.bmp
+
+
+## task_dependencies.c (Task dependencies and synchronization problems)
+
+How to run:
+
+Step 1 ->
+
+ 	gcc task_dependencies.c
+
+Step 2 ->
+
+ 	./a.out
+
+  
+
+ 	
